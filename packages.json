@@ -8,10 +8,6 @@
         "url": "https://github.com/paithiov909/pipian"
     },
     {
-        "package": "RcppMeCab",
-        "url": "https://github.com/paithiov909/RcppMeCab"
-    },
-    {
         "package": "rjavacmecab",
         "url": "https://github.com/paithiov909/rjavacmecab"
     },
