@@ -1,5 +1,9 @@
 [
     {
+        "package": "nanoidr",
+        "url": "https://github.com/paithiov909/nanoidr"
+    },
+    {
         "package": "pipian",
         "url": "https://github.com/paithiov909/pipian"
     },
