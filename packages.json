@@ -4,6 +4,10 @@
         "url": "https://github.com/paithiov909/audubon"
     },
     {
+        "package": "ldccr",
+        "url": "https://github.com/paithiov909/ldccr"
+    },
+    {
         "package": "nanoidr",
         "url": "https://github.com/paithiov909/nanoidr"
     },
@@ -12,8 +16,8 @@
         "url": "https://github.com/paithiov909/pipian"
     },
     {
-        "package": "rjavacmecab",
-        "url": "https://github.com/paithiov909/rjavacmecab"
+        "package": "RcppMeCab",
+        "url": "https://github.com/paithiov909/RcppMeCab"
     },
     {
         "package": "tangela",
