@@ -28,6 +28,10 @@
         "url": "https://github.com/paithiov909/pipian"
     },
     {
+        "package": "RcppMeCab",
+        "url": "https://github.com/paithiov909/RcppMeCab"
+    },
+    {
         "package": "tangela",
         "url": "https://github.com/paithiov909/tangela"
     }
