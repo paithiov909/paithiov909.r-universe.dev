@@ -32,15 +32,7 @@
         "url": "https://github.com/paithiov909/RcppMeCab"
     },
     {
-        "package": "segmntr",
-        "url": "https://github.com/paithiov909/segmntr"
-    },
-    {
         "package": "tangela",
         "url": "https://github.com/paithiov909/tangela"
-    },
-    {
-        "package": "vibrrt",
-        "url": "https://github.com/paithiov909/vibrrt"
     }
 ]
