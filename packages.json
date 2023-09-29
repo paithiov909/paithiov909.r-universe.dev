@@ -16,6 +16,14 @@
         "url": "https://github.com/paithiov909/gibasa"
     },
     {
+        "package": "jisx0402",
+        "url": "https://github.com/paithiov909/jisx0402"
+    },
+    {
+        "package": "jprailway",
+        "url": "https://github.com/paithiov909/jprailway"
+    },
+    {
         "package": "ldccr",
         "url": "https://github.com/paithiov909/ldccr"
     },
