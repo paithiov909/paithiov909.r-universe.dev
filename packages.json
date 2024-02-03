@@ -40,11 +40,11 @@
         "url": "https://github.com/paithiov909/RcppMeCab"
     },
     {
-        "package": "tangela",
-        "url": "https://github.com/paithiov909/tangela"
+        "package": "RNGT",
+        "url": "https://github.com/paithiov909/RNGT"
     },
     {
-        "package": "vibrrt",
-        "url": "https://github.com/paithiov909/vibrrt"
+        "package": "tangela",
+        "url": "https://github.com/paithiov909/tangela"
     }
 ]
