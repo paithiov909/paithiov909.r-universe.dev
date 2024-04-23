@@ -24,12 +24,12 @@
         "url": "https://github.com/paithiov909/jprailway"
     },
     {
-        "package": "ldccr",
-        "url": "https://github.com/paithiov909/ldccr"
+        "package": "kelpbeds",
+        "url": "https://github.com/paithiov909/kelpbeds"
     },
     {
-        "package": "nanoidr",
-        "url": "https://github.com/paithiov909/nanoidr"
+        "package": "ldccr",
+        "url": "https://github.com/paithiov909/ldccr"
     },
     {
         "package": "pipian",
@@ -46,5 +46,9 @@
     {
         "package": "tangela",
         "url": "https://github.com/paithiov909/tangela"
+    },
+    {
+        "package": "sudachir",
+        "url": "https://github.com/paithiov909/sudachir"
     }
 ]
