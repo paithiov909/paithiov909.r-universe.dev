@@ -8,12 +8,20 @@
         "url": "https://github.com/paithiov909/audubon"
     },
     {
+        "package": "aznyan",
+        "url": "https://github.com/paithiov909/aznyan"
+    },
+    {
         "package": "baritsu",
         "url": "https://github.com/paithiov909/baritsu"
     },
     {
         "package": "gibasa",
         "url": "https://github.com/paithiov909/gibasa"
+    },
+    {
+        "package": "gsdmm",
+        "url": "https://github.com/paithiov909/gsdmm"
     },
     {
         "package": "jisx0402",
@@ -38,10 +46,6 @@
     {
         "package": "RcppMeCab",
         "url": "https://github.com/paithiov909/RcppMeCab"
-    },
-    {
-        "package": "RNGT",
-        "url": "https://github.com/paithiov909/RNGT"
     },
     {
         "package": "tangela",
