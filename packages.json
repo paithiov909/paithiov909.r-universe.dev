@@ -48,11 +48,15 @@
         "url": "https://github.com/paithiov909/RcppMeCab"
     },
     {
-        "package": "tangela",
-        "url": "https://github.com/paithiov909/tangela"
+        "package": "sikakusphere",
+        "url": "https://github.com/paithiov909/sikakusphere"
     },
     {
         "package": "sudachir",
         "url": "https://github.com/paithiov909/sudachir"
+    },
+    {
+        "package": "tangela",
+        "url": "https://github.com/paithiov909/tangela"
     }
 ]
