@@ -16,6 +16,10 @@
         "url": "https://github.com/paithiov909/baritsu"
     },
     {
+        "package": "convlog",
+        "url": "https://github.com/paithiov909/convlog"
+    },
+    {
         "package": "gibasa",
         "url": "https://github.com/paithiov909/gibasa"
     },
@@ -50,10 +54,6 @@
     {
         "package": "shikakusphere",
         "url": "https://github.com/paithiov909/shikakusphere"
-    },
-    {
-        "package": "sudachir",
-        "url": "https://github.com/paithiov909/sudachir"
     },
     {
         "package": "tangela",
