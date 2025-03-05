@@ -48,8 +48,9 @@
         "url": "https://github.com/paithiov909/pipian"
     },
     {
-        "package": "RcppMeCab",
-        "url": "https://github.com/paithiov909/RcppMeCab"
+        "package": "RMeCab",
+        "url": "https://github.com/paithiov909/rmecab-doc",
+        "branch" : "dev"
     },
     {
         "package": "shikakusphere",
