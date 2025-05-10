@@ -48,6 +48,10 @@
         "url": "https://github.com/paithiov909/pipian"
     },
     {
+        "package": "rasengan",
+        "url": "https://github.com/paithiov909/rasengan"
+    },
+    {
         "package": "RMeCab",
         "url": "https://github.com/paithiov909/rmecab-doc",
         "branch" : "dev"
