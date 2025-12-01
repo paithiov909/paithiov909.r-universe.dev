@@ -12,10 +12,6 @@
         "url": "https://github.com/paithiov909/aznyan"
     },
     {
-        "package": "baritsu",
-        "url": "https://github.com/paithiov909/baritsu"
-    },
-    {
         "package": "convlog",
         "url": "https://github.com/paithiov909/convlog"
     },
@@ -54,6 +50,10 @@
     {
         "package": "pipian",
         "url": "https://github.com/paithiov909/pipian"
+    },
+    {
+        "package": "pipopaplot",
+        "url": "https://github.com/paithiov909/pipopaplot"
     },
     {
         "package": "rasengan",
