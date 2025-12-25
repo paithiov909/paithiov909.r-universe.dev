@@ -1,9 +1,5 @@
 [
     {
-        "package": "apportita",
-        "url": "https://github.com/paithiov909/apportita"
-    },
-    {
         "package": "audubon",
         "url": "https://github.com/paithiov909/audubon"
     },
@@ -44,12 +40,20 @@
         "url": "https://github.com/paithiov909/ldccr"
     },
     {
+        "package": "mixboxr",
+        "url": "https://github.com/paithiov909/mixboxr"
+    },
+    {
         "package": "nativeshadr",
         "url": "https://github.com/paithiov909/nativeshadr"
     },
     {
         "package": "pipian",
         "url": "https://github.com/paithiov909/pipian"
+    },
+    {
+        "package": "pnglitchr",
+        "url": "https://github.com/paithiov909/pnglitchr"
     },
     {
         "package": "pipopaplot",
