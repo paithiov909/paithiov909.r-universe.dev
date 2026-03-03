@@ -65,6 +65,10 @@
         "branch" : "dev"
     },
     {
+        "package": "rravif",
+        "url": "https://github.com/paithiov909/rravif"
+    },
+    {
         "package": "shikakusphere",
         "url": "https://github.com/paithiov909/shikakusphere"
     },
